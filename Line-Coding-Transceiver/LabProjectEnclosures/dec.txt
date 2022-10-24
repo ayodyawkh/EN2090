@@ -1,0 +1,10 @@
+Decoder
+
+specifications
+
+operating voltage:8-24 V
+Maximum twisted pair length - 10m
+PCB size:9cm X 5cm
+size = 13cm X 9cm X 4.5cm
+
+
